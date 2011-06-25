@@ -18,6 +18,10 @@ uploading it to <install location>/wolf/plugins/redirector and enabling it
 in your Administration section.
 
 *Please Note:
+This plugin requires that you install Installer Helper to install or remove
+the plugin.*
+
+*SQLite Users:
 This plugin has SQLite enabled, however it has not been tested. If you are
 running WolfCMS with SQLite and find an issue (or not) please let me know.*
 
