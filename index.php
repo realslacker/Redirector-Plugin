@@ -16,11 +16,12 @@
 if (!defined('IN_CMS')) { exit(); }
 
 Plugin::setInfos(array(
-    'id'          => 'redirector',
-    'title'       => 'Redirector', 
-    'description' => 'Provides an interface to manage redirects.', 
-    'version'     => '0.2.5', 
-    'website'     => 'http://www.github.com/realslacker/Redirector-Plugin'
+    'id'			=> 'redirector',
+    'title'			=> 'Redirector', 
+    'description'	=> 'Provides an interface to manage redirects.', 
+    'version'		=> '0.2.5', 
+    'website'		=> 'http://www.github.com/realslacker/Redirector-Plugin',
+    'update_url'	=> 'http://www.brooksworks.com/plugin-versions.xml'
 ));
 
 //	setup observers
