@@ -5,6 +5,9 @@
 Redirector Plugin is a plugin for WolfCMS. It provides an provides an interface
 to manage redirects for URLs served by WolfCMS.
 
+Adapted from Redirector by Design Spike <http://designspike.ca>
+Major contributions and original idea by Cody at Desgin Spike
+
 Licensed under the MIT license
 http://www.opensource.org/licenses/mit-license.php
  
