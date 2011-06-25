@@ -26,6 +26,8 @@ running WolfCMS with SQLite and find an issue (or not) please let me know.*
 If you are upgrading from a previous version of WolfCMS, please first make sure
 you have installed version 0.2.1 of this plugin before installing version 0.2.5.
 
+[Download Redirector v0.2.1](http://www.brooksworks.com/projects/php/wolfcms-redirector-0.2.1.zip)
+
 ### Upgrading From v0.2.1
 
 1. Disable the redirector plugin
