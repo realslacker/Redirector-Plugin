@@ -4,7 +4,7 @@
 
 Released March 31st, 2010
 
-Last release from Cody at Design Spike <http://designspike.ca>
+Last release from Cody at [Design Spike](http://designspike.ca)
 
 - Now compatible with Both WolfCMS 0.6 and Frog 0.95
 - Fixed the fatal error on SQLite
