@@ -1,7 +1,7 @@
 <?php
 /*
  * Redirector Plugin for WolfCMS <http://www.wolfcms.org>
- * Copyright (c) 2011 Shannon Brooks <shannon@brooksworks.com>
+ * Copyright (c) 2011 Shannon Brooks <http://www.brooksworks.com>
  * Adapted from Redirector by Design Spike <http://designspike.ca>
  * Major contributions and original idea by Cody at Design Spike
  *
